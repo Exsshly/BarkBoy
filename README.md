@@ -1,0 +1,2 @@
+# SharedRes
+A fake repository.
